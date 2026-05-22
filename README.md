@@ -58,7 +58,7 @@ Project/
 
 ~~~~
 
-⚙️ Funcionalidades
+#⚙️ Funcionalidades
 
 ✅ Cadastro de projetos sociais
 ✅ Listagem de projetos
@@ -68,43 +68,52 @@ Project/
 ✅ Persistência em banco MongoDB
 ✅ Execução via Docker Compose
 
-🐳 Como Executar o Projeto
+#🐳 Como Executar o Projeto
+
 Pré-requisitos
 Docker Desktop
 Git
+
 Clonar o repositório
-git clone https://github.com/gsrapha/projeto-web-back-end.git
+-git clone https://github.com/gsrapha/projeto-web-back-end.git
 Entrar na pasta
-cd projeto-web-back-end
+-cd projeto-web-back-end
 Executar o sistema
-docker compose up --build
-🌐 Acessos
+-docker compose up --build
+
+#🌐 Acessos
+
 Front-End
-http://localhost:3000
+-http://localhost:3000
+
 Back-End
-http://localhost:5000
+-http://localhost:5000
+
 MongoDB
-mongodb://localhost:27017
+-mongodb://localhost:27017
+
 📸 Mockup
 
 O mockup da aplicação foi desenvolvido para representar:
 
-Navbar SPA
-Cadastro de projetos
-Listagem de projetos
-Área de detalhes
-Funcionalidades CRUD
+-Navbar SPA
+-Cadastro de projetos
+-Listagem de projetos
+-Área de detalhes
+-Funcionalidades CRUD
+
 📖 Conceitos Aplicados
-SPA (Single Page Application)
-CRUD
-API REST
-Componentização React
-Integração Cliente/Servidor
-Containerização
-Persistência de dados
+-SPA (Single Page Application)
+-CRUD
+-API REST
+-Componentização React
+-Integração Cliente/Servidor
+-Containerização
+-Persistência de dados
+
 👨‍💻 Autor
 
-Raphael Souza Gonçalves
+-Raphael Souza Gonçalves
 
 📄 Licença
 

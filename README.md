@@ -33,7 +33,6 @@ A aplicação foi desenvolvida como atividade acadêmica da disciplina de Desenv
 
 # 📂 Estrutura do Projeto
 
-```bash
 Project/
 │
 ├── backend/
@@ -54,9 +53,6 @@ Project/
 │   └── Dockerfile
 │
 └── docker-compose.yml
-
-bash```
-
 
 ⚙️ Funcionalidades
 
@@ -109,4 +105,6 @@ Raphael Souza Gonçalves
 📄 Licença
 
 Projeto desenvolvido apenas para fins acadêmicos.
+
+
 

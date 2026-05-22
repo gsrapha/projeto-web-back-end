@@ -33,6 +33,8 @@ A aplicação foi desenvolvida como atividade acadêmica da disciplina de Desenv
 
 # 📂 Estrutura do Projeto
 
+~~~~bash
+
 Project/
 │
 ├── backend/
@@ -53,6 +55,8 @@ Project/
 │   └── Dockerfile
 │
 └── docker-compose.yml
+
+~~~~
 
 ⚙️ Funcionalidades
 

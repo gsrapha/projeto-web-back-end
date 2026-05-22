@@ -55,6 +55,9 @@ Project/
 │
 └── docker-compose.yml
 
+bash```
+
+
 ⚙️ Funcionalidades
 
 ✅ Cadastro de projetos sociais
@@ -101,8 +104,9 @@ Containerização
 Persistência de dados
 👨‍💻 Autor
 
-Raphael Souza
+Raphael Souza Gonçalves
 
 📄 Licença
 
 Projeto desenvolvido apenas para fins acadêmicos.
+

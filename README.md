@@ -100,7 +100,7 @@ Project/
 ### Clonar o repositório
 
 ```bash
-git clone https://github.com/gsrapha/projeto-web-back-end.git
+git clone <https://github.com/gsrapha/projeto-web-back-end.git>
 ```
 
 ### Entrar na pasta
